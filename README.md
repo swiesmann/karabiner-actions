@@ -126,7 +126,7 @@ But I have _two_ versions with the same order as regular keyboards, so:
 - D -> Option
 - F -> Command
 
-[One regular version](actions/home_row_mods-s-ct-o-c.json), and one version [with sticky shifts](actions/home_row_mods-s-ct-o-c.json).
+[One regular version](actions/home_row_mods-s_ct_o_c.json), and one version [with sticky shifts](actions/home_row_mods-s_ct_o_c-sticky_shifts.json).
 
 Sticky shifts mean that if you hold `A` or `semicolon` and then click something else, you'll get the shifted version _even_ if was before 200 ms. This mimics the _Permissive Hold_ function of QMK - but not perfectly (as that's not possible in Karabiner-Elements). The upside is that you don't need to wait for shifts - but it'll lead to more unintended activations, _and you can't keep holding and get more shifts afterwards_.
 
